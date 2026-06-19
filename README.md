@@ -1,1 +1,0 @@
-# Teyzix-Core-Task-1.
