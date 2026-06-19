@@ -1,4 +1,3 @@
-Markdown
 # Multi-Vendor Service Marketplace Platform
 **Task ID:** FSWD-1  
 **Domain:** Full Stack Web Development (TEYZIX CORE Internship - June Batch)  
