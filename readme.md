@@ -52,7 +52,7 @@ Ensure you have Node.js installed on your workstation.
 2. Backend Setup
 Navigate to the backend environment, install missing node bundles, and boot the development engine:
 
-Bash
+```Bash
 cd Backend
 npm install
 npm run dev
@@ -68,4 +68,4 @@ npm start
 The browser instance will deploy automatically on http://localhost:3000.
 
 🎥 Project Verification
-A working demo video (project_demo.mp4) showcasing the exact dynamic order-to-dashboard workflow pipeline has been packaged within the core directory for immediate assessment.
+A working demo video (project_demo.mp4) showcasing the exact dynamic order-to-dashboard workflow pipeline has been packaged within the core directory for immediate assessment.```
